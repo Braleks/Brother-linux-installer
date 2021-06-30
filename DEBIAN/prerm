@@ -1,0 +1,4 @@
+#!/bin/sh
+# ESP Package Manager v4.1
+/opt/brother/PTouch/pj722/inf/setupPrintcappt1 pj722 -e
+/opt/brother/PTouch/pj722/cupswrapper/cupswrapperpj722 -e

@@ -1,0 +1,15 @@
+paper type:	width	height
+A4/A4:	1600	2200
+A5/A5:	1112	1516
+RollA4/A4 (Roll):	1600	2205
+PerfA4/A4 (Perforated Roll):	1600	2118
+RetractA4/A4 (Perforated Roll Retract):	1600	2200
+Legal/Legal:	1632	2733
+RollLegal/US Legal (Roll):	1632	2667
+PerfLegal/US Legal (Perforated Roll):	1632	2580
+RetractLegal/US Legal (Perforated Roll Retract):	1632	2733
+Letter/Letter:	1632	2133
+RollLetter/US Letter (Roll):	1632	2067
+PerfLetter/US Letter (Perforated Roll):	1632	1980
+RetractLetter/US Letter (Perforated Roll Retract):	1632	2133
+ContinuousLetter/Infinite:	1632	2800

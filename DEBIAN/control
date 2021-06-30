@@ -1,0 +1,15 @@
+Package: libc6-i386
+Source: glibc
+Version: 2.24-11+deb9u4
+Architecture: amd64
+Maintainer: GNU Libc Maintainers <debian-glibc@lists.debian.org>
+Installed-Size: 11255
+Depends:
+Replaces: libc6-dev-i386
+Section: libs
+Priority: optional
+Homepage: http://www.gnu.org/software/libc/libc.html
+Description: GNU C Library: 32-bit shared libraries for AMD64
+ This package includes shared versions of the standard C
+ library and the standard math library, as well as many others.
+ This is the 32bit version of the library, meant for AMD64 systems.
