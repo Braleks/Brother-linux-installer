@@ -1,15 +1,13 @@
-Package: libc6-i386
-Source: glibc
-Version: 2.24-11+deb9u4
+Package: pj722-installer
+Version: 1.0
 Architecture: amd64
-Maintainer: GNU Libc Maintainers <debian-glibc@lists.debian.org>
-Installed-Size: 11255
-Depends:
-Replaces: libc6-dev-i386
+Maintainer: Aleksey Popkov <ap3@brother.ru>
+Depends:libc6
 Section: libs
 Priority: optional
-Homepage: http://www.gnu.org/software/libc/libc.html
+Homepage: 
 Description: GNU C Library: 32-bit shared libraries for AMD64
  This package includes shared versions of the standard C
  library and the standard math library, as well as many others.
  This is the 32bit version of the library, meant for AMD64 systems.
+ Contains Brother LPR driver and Brother CUPSwrapper driver
